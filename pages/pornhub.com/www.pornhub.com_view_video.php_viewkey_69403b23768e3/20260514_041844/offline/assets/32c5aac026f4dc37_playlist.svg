@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="18px" viewBox="0 0 19 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/Playlistplay</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Watch-Page-UI" transform="translate(-313.000000, -425.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Icons/Playlistplay" transform="translate(313.000000, 425.000000)">
+                <path d="M0.73255814,5.39726027 L14.3953488,5.39726027 L14.3953488,8.17123288 L0.73255814,8.17123288 L0.73255814,5.39726027 Z M0.73255814,0.773972603 L14.3953488,0.773972603 L14.3953488,3.54794521 L0.73255814,3.54794521 L0.73255814,0.773972603 Z M0.73255814,10.0205479 L9.84108527,10.0205479 L9.84108527,12.7945205 L0.73255814,12.7945205 L0.73255814,10.0205479 Z M12.5736434,10.0205479 L12.5736434,17.4178082 L18.0387597,13.7191781 L12.5736434,10.0205479 Z" id="Playlistplay"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Components/Badges/Icon</title>
+    <g id="Video" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Watch-Page-UI" transform="translate(-125.000000, -655.000000)" fill-rule="nonzero">
+            <g id="Components/Badges/Icon" transform="translate(125.000000, 655.000000)">
+                <g>
+                    <circle id="Oval" fill="#696969" cx="7" cy="7" r="7"></circle>
+                    <circle id="Oval" fill="#696969" cx="7" cy="7" r="5.44444444"></circle>
+                    <g id="Icons/16px/Check-White" transform="translate(3.111111, 3.111111)" fill="#000000" stroke="#000000" stroke-width="1.10000002">
+                        <path d="M5.58722953,2.31312822 C5.75473382,2.14562393 6.02631193,2.14562393 6.19381623,2.31312822 C6.36132052,2.48063251 6.36132052,2.75221063 6.19381623,2.91971492 L3.62028681,5.49324433 C3.45278252,5.66074862 3.18120441,5.66074862 3.01370011,5.49324433 L1.58396155,4.06350577 C1.41645726,3.89600148 1.41645726,3.62442336 1.58396155,3.45691907 C1.75146584,3.28941478 2.02304396,3.28941478 2.19054825,3.45691907 L3.31699346,4.58336428 L5.58722953,2.31312822 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

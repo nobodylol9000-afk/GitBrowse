@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="15px" viewBox="0 0 10 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Icons/Arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Explore" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Explore_Mobile_4ROW" transform="translate(-298.000000, -1886.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Group-2-Copy-2" transform="translate(12.000000, 1882.000000)">
+                <g id="Group-13">
+                    <g id="Icons/Arrow" transform="translate(291.000000, 12.000000) rotate(-90.000000) translate(-291.000000, -12.000000) translate(280.000000, 1.000000)">
+                        <polygon id="Arrow" transform="translate(11.305556, 11.000000) rotate(90.000000) translate(-11.305556, -11.000000) " points="8.40872593 3.66666667 6.41666667 5.50061111 12.2833333 11.0006111 6.41666667 16.5006111 8.40872593 18.3333333 16.1944444 11.0006111"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

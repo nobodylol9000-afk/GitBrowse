@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="26px" viewBox="0 0 29 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>Group 19</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.0184922292 6.52413634 0.0184922292 6.52413634 6.85209549 0 6.85209549"></polygon>
+        <polygon id="path-3" points="0.00342527685 0.0184740013 6.64831614 0.0184740013 6.64831614 6.85207726 0.00342527685 6.85207726"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MH-Purchased---Fan-Club" transform="translate(-45.000000, -89.000000)">
+            <g id="Group-117" transform="translate(42.000000, 70.000000)">
+                <g id="Group-19" transform="translate(3.000000, 19.000000)">
+                    <g>
+                        <path d="M0.152937883,8.53249137 L12.5791409,24.3785468 L6.94365215,8.53249137 C6.94365215,8.53249137 0.152937883,8.53249137 0.152937883,8.53249137" id="Fill-1" fill="#FF9000"></path>
+                        <polygon id="Fill-3" fill="#FF9000" points="8.06747335 8.53249137 14.071274 25.4795134 20.1878006 8.53249137"></polygon>
+                        <polygon id="Fill-5" fill="#FF9000" points="15.3702573 24.7717491 28.1023361 8.53249137 21.2574163 8.53249137"></polygon>
+                        <polygon id="Fill-7" fill="#FF9000" points="23.2465583 0 15.1790849 0 20.6989374 6.99900214"></polygon>
+                        <polygon id="Fill-9" fill="#FF9000" points="19.7672214 7.51016522 14.1084977 0.353882131 8.44981805 7.51016522"></polygon>
+                        <polygon id="Fill-11" fill="#FF9000" points="13.1144235 0 5.04695015 0 7.5662695 6.99900214"></polygon>
+                        <g id="Group-15" transform="translate(0.000000, 0.668444)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Clip-14"></g>
+                            <polygon id="Fill-13" fill="#FF9000" mask="url(#mask-2)" points="4.11609909 0.0184922292 -4.38798289e-06 6.85209549 6.52413634 6.85209549"></polygon>
+                        </g>
+                        <g id="Group-18" transform="translate(21.602476, 0.668444)">
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <g id="Clip-17"></g>
+                            <polygon id="Fill-16" fill="#FF9000" mask="url(#mask-4)" points="6.64832943 6.85207726 2.49173603 0.0184740013 0.00342527685 6.85207726"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

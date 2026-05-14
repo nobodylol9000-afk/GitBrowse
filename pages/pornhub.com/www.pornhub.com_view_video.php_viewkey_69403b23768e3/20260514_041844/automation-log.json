@@ -1,0 +1,22 @@
+[
+  {
+    "kind": "popup",
+    "round": 1,
+    "rule": "Common cookie / age accept button",
+    "action": "click",
+    "time": "2026-05-14T04:18:53.570235+00:00",
+    "frame_url": "https://www.pornhub.com/"
+  },
+  {
+    "kind": "automation",
+    "action": "auto_scroll",
+    "max_scrolls": 18,
+    "time": "2026-05-14T04:25:18.037593+00:00"
+  },
+  {
+    "kind": "offline",
+    "action": "capture_mhtml",
+    "status": "ok",
+    "path": "offline/page.mhtml"
+  }
+]
