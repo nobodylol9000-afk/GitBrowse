@@ -1,6 +1,138 @@
 {
   "metadata": {
-    "note": "Run workflow 05-Collect Free Proxies to populate this file."
+    "generated_at_utc": "2026-05-14T04:16:14.262462+00:00",
+    "started_at_utc": "2026-05-14T04:14:38.186483+00:00",
+    "requested_count": 10,
+    "protocol": "http",
+    "test_url": "https://api.ipify.org?format=json",
+    "timeout_seconds": 8.0,
+    "concurrency": 80,
+    "source_count": 5,
+    "candidate_count": 1200,
+    "working_count": 134,
+    "selected_count": 10,
+    "note": "ping_ms is HTTP request latency through the proxy, not ICMP ping."
   },
-  "proxies": []
+  "proxies": [
+    {
+      "PROXY_SERVER": "http://198.199.86.11:3128",
+      "PROXY_USERNAME": "",
+      "PROXY_PASSWORD": "",
+      "ping_ms": 359,
+      "protocol": "http",
+      "status_code": 200,
+      "final_url": "https://api.ipify.org/?format=json",
+      "observed_ip": "198.199.86.11",
+      "source": "https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt",
+      "tested_at_utc": "2026-05-14T04:14:47.090438+00:00"
+    },
+    {
+      "PROXY_SERVER": "http://86.104.72.220:1082",
+      "PROXY_USERNAME": "",
+      "PROXY_PASSWORD": "",
+      "ping_ms": 406,
+      "protocol": "http",
+      "status_code": 200,
+      "final_url": "https://api.ipify.org/?format=json",
+      "observed_ip": "86.104.72.220",
+      "source": "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt",
+      "tested_at_utc": "2026-05-14T04:14:55.786061+00:00"
+    },
+    {
+      "PROXY_SERVER": "http://217.76.245.80:999",
+      "PROXY_USERNAME": "",
+      "PROXY_PASSWORD": "",
+      "ping_ms": 563,
+      "protocol": "http",
+      "status_code": 200,
+      "final_url": "https://api.ipify.org/?format=json",
+      "observed_ip": "217.76.245.80",
+      "source": "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt",
+      "tested_at_utc": "2026-05-14T04:15:56.768533+00:00"
+    },
+    {
+      "PROXY_SERVER": "http://45.13.185.217:3128",
+      "PROXY_USERNAME": "",
+      "PROXY_PASSWORD": "",
+      "ping_ms": 760,
+      "protocol": "http",
+      "status_code": 200,
+      "final_url": "https://api.ipify.org/?format=json",
+      "observed_ip": "45.13.185.217",
+      "source": "https://raw.githubusercontent.com/proxifly/free-proxy-list/main/proxies/protocols/http/data.txt",
+      "tested_at_utc": "2026-05-14T04:14:47.477055+00:00"
+    },
+    {
+      "PROXY_SERVER": "http://134.209.29.120:3128",
+      "PROXY_USERNAME": "",
+      "PROXY_PASSWORD": "",
+      "ping_ms": 773,
+      "protocol": "http",
+      "status_code": 200,
+      "final_url": "https://api.ipify.org/?format=json",
+      "observed_ip": "134.209.29.120",
+      "source": "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt",
+      "tested_at_utc": "2026-05-14T04:14:55.500180+00:00"
+    },
+    {
+      "PROXY_SERVER": "http://194.59.247.34:10808",
+      "PROXY_USERNAME": "",
+      "PROXY_PASSWORD": "",
+      "ping_ms": 889,
+      "protocol": "http",
+      "status_code": 200,
+      "final_url": "https://api.ipify.org/?format=json",
+      "observed_ip": "194.59.247.34",
+      "source": "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt",
+      "tested_at_utc": "2026-05-14T04:15:51.722414+00:00"
+    },
+    {
+      "PROXY_SERVER": "http://45.140.147.155:1082",
+      "PROXY_USERNAME": "",
+      "PROXY_PASSWORD": "",
+      "ping_ms": 987,
+      "protocol": "http",
+      "status_code": 200,
+      "final_url": "https://api.ipify.org/?format=json",
+      "observed_ip": "45.140.147.155",
+      "source": "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt",
+      "tested_at_utc": "2026-05-14T04:15:35.890672+00:00"
+    },
+    {
+      "PROXY_SERVER": "http://162.255.110.107:8080",
+      "PROXY_USERNAME": "",
+      "PROXY_PASSWORD": "",
+      "ping_ms": 1117,
+      "protocol": "http",
+      "status_code": 200,
+      "final_url": "https://api.ipify.org/?format=json",
+      "observed_ip": "104.36.233.5",
+      "source": "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt",
+      "tested_at_utc": "2026-05-14T04:14:47.876265+00:00"
+    },
+    {
+      "PROXY_SERVER": "http://87.120.222.214:444",
+      "PROXY_USERNAME": "",
+      "PROXY_PASSWORD": "",
+      "ping_ms": 1354,
+      "protocol": "http",
+      "status_code": 200,
+      "final_url": "https://api.ipify.org/?format=json",
+      "observed_ip": "87.120.222.214",
+      "source": "https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt",
+      "tested_at_utc": "2026-05-14T04:14:52.904957+00:00"
+    },
+    {
+      "PROXY_SERVER": "http://160.19.19.9:8080",
+      "PROXY_USERNAME": "",
+      "PROXY_PASSWORD": "",
+      "ping_ms": 1413,
+      "protocol": "http",
+      "status_code": 200,
+      "final_url": "https://api.ipify.org/?format=json",
+      "observed_ip": "160.19.19.9",
+      "source": "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt",
+      "tested_at_utc": "2026-05-14T04:15:00.434273+00:00"
+    }
+  ]
 }
